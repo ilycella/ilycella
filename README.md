@@ -33,7 +33,7 @@ Welcome to my profile! I am a designer passionate about creating intuitive, acce
 
 ### 📫 How to reach me?
 
-- 💼 **LinkedIn:** (https://www.linkedin.com/in/marcella-grangê-98b013346/)
-- 🎨 **Behance/Portfolio:** behance.net/ella14
+- 💼 **LinkedIn:** https://www.linkedin.com/in/marcella-grangê-98b013346/
+- 🎨 **Behance/Portfolio:** https://www.behance.net/ella14
 
 
